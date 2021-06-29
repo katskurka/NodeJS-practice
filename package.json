@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "practicing setting up nodeJS - breakout practice 6.28.21\t",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katskurka/NodeJS-practice.git"
+  },
+  "author": "Kat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katskurka/NodeJS-practice/issues"
+  },
+  "homepage": "https://github.com/katskurka/NodeJS-practice#readme",
+  "devDependencies": {
+    "eslint": "^7.29.0"
+  }
+}
